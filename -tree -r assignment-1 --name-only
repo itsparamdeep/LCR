@@ -1,8 +1,0 @@
-[33mcommit 3e43587eee9961aa34c9babf6cf34f1055c049bb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32massignment-1[m[33m, [m[1;31morigin/assignment-1[m[33m)[m
-Author: Param <paramdeep1998@gmail.com>
-Date:   Mon Aug 31 16:01:32 2026 -0400
-
-    Complete assignment 1 - KNN classification with Wine dataset
-
- 02_activities/assignments/assignment_1.ipynb | 18 [32m+++++++[m[31m-----------[m
- 1 file changed, 7 insertions(+), 11 deletions(-)
